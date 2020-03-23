@@ -7,7 +7,7 @@ How to instll Unity with Android development and open the project
 1. Download Unity hub in the Unity website
 2. Install Unity under Installs tab in Unity Hub by clicking ADD: The unity version this project is using is 2019.2.13f1. (Might need to visit Unity download archives to download this version)
 3. Add modules for Android development
-5. Open Unity Hub and go to Projects, click ADD and navigate to the location of the project folder named “AR Visualisation Tool” and click select folder. Then click the project name to open it.
+5. Open Unity Hub and go to Projects, click ADD and navigate to the location of the project folder named “src” and click select folder. Then click the project name to open it.
 6. Once the project is opened, connect Android device, select build and run, store the apk file in an appropriate address, it will then be sent to the device.
 
 Note: The authentication credentials need to be filled into the script "GetData".
